@@ -79,17 +79,17 @@ TransE python code
 
 ## Learning에 관하여
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/NgseoKim/TransE/blob/main/algorithm.png?raw=true)
 위 알고리즘의 1, 2, 3번 행에서는 주어진 범위 사이의 랜덤한 값으로 e(entity)와 l(relation)에 부여했다.
 
 6번 줄에서는 주어진 데이터의 triplet들을 모아둔 set을 일정한 batch로 나누었다.
 
 8~11번 줄의 반복문에서는 batch 안의 모든 triplet에 대해서 다음의 과정을 통해 corrupted set을 만든다.
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/NgseoKim/TransE/blob/main/corruptedSet.png?raw=true)
 마지막으로는, Stocastic gradient descent을 통해 다음 loss function의 최솟값을 추정한다.
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/NgseoKim/TransE/blob/main/lossFunction.png?raw=true)
 ---
 
 ## 의견
