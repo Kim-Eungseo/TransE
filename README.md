@@ -1,7 +1,4 @@
 # TransE
-TransE python code
-
-# TransE
 
 [Papers with Code - TransE Explained](https://paperswithcode.com/method/transe)
 
