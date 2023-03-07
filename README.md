@@ -51,7 +51,7 @@
         
         In the context of knowledge graph embeddings, hyperbolic embeddings have been shown to be effective at modeling hierarchies and capturing complex relationships between entities. For example, models like **Hyperbolic Knowledge Graph Embeddings (HypE)** and **Hyperbolic TransE (HypTransE)** use hyperbolic embeddings to learn hierarchical representations of knowledge graphs and make predictions based on the positions of the entities in the hyperbolic space.
         
-        Overall, hyperbolic embedding space provides a powerful tool for modeling hierarchical structures and capturing complex relationships between entities. Its ability to represent hierarchies more efficiently than Euclidean space makes it well-suited for many types of data, including knowledge graphs. (ChatGPT)
+        Overall, hyperbolic embedding space provides a powerful tool for modeling hierarchical structures and capturing complex relationships between entities. Its ability to represent hierarchies more efficiently than Euclidean space makes it well-suited for many types of data, including knowledge graphs. (**ChatGPT**)
         
 9. Asymmetric한 관계, composition의 관계와 inverse의 관계에 대해서 학습이 가능하다.
 10. 그래프 관계형 데이터의 어려운 점은 Locality에서 많이 비롯된다.
