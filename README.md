@@ -2,7 +2,7 @@
 
 [Papers with Code - TransE Explained](https://paperswithcode.com/method/transe)
 
-## TransE의 특징 (검증 후)
+## TransE의 특징
 
 1. TransE (Translation-based Embedding) is a popular approach in knowledge graph embedding.
     
